@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**mucansever/mucansever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋, I'm Mutlu!
+### I'm a Senior Computer Engineering student at Hacettepe University
+  
+- 🔭 I’m currently working on my final project about **Anomaly Detection in Gait Patterns**.
+- 🌱 I’m currently learning **System Design**, and **Networks**.
+- 👯 I’m looking to collaborate on anything cool!
+- 🤔 I’m looking for help with **Networks**.
+- 💬 Ask me about anything!
+- 📫 You can reach me from **mucansever[at]gmail[dot]com**
+- 🦆 Fun fact: I love ducks.
