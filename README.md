@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with **Networks**.
 - 💬 Ask me about anything!
 - 📫 You can reach me from **mucansever[at]gmail[dot]com**
-- 🦆 Fun fact: I love ducks.
+- 🦆 Fun fact: My name means "happy".
